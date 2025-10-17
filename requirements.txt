@@ -1,0 +1,12 @@
+Django>=4.0
+djangorestframework>=3.14  # For building the API endpoints (views.py)
+Pillow>=9.0.1             # For image handling
+
+# AI/ML Libraries (Required for actual AI logic)
+# You will need to install one of these for the AI matching module:
+tensorflow>=2.10.0
+numpy>=1.22.0
+scikit-learn>=1.0.2
+
+# Optional utility libraries
+qrcode[pil]>=7.3.1        # For local QR code generation (if not using an external API)
