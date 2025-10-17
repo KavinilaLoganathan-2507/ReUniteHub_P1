@@ -11,6 +11,7 @@ ReUnite Hub: Smart AI-Powered Lost & Found System
 The primary goal is to provide a quick, reliable, and stress-free way for users to report, find, and claim lost items.
 
 **Problem Solved:** Lost items are not easily returned, and manual systems are slow, unorganized, and lack real-time tracking.
+
 **Value Proposition:** Quick, reliable, and stress-free recovery for users; centralized, paperless, and secure tracking for administrators.
 
 ---
@@ -20,8 +21,11 @@ The primary goal is to provide a quick, reliable, and stress-free way for users 
 The unique selling proposition (USP) of ReUnite Hub is its combination of multiple advanced technologies.
 
 **AI Image Recognition Search:** Identifies and matches lost items from uploaded photos using visual similarity search.
+
 **PoC Success Metric:** Image Match Accuracy target is **>60%**.
+
 **QR/Geo-Tag Tracking:** Enables item location tagging for faster recovery and verification.
+
 **Basic Reporting Interface:** A functional browser-based prototype for submitting and viewing lost/found items.
 
 ### 3. Technology Stack
